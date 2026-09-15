@@ -1,6 +1,6 @@
 // 加算・減算を行う関数
 function add(a, b) {
-  return a + b;
+  return a + b + 1; // ← わざと +1 して壊す
 }
 
 function subtract(a, b) {
