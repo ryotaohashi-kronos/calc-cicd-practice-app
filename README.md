@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/ryotaohashi-kronos/calc-cicd-practice-app/actions/workflows/test.yml/badge.svg)
+
 # calc-cicd-practice-app
 
 「3時間で体験するCI/CD入門」のハンズオンで使う演習用プロジェクトです。このフォルダを、講座内で作成・操作していく「あなた自身のプロジェクト」として使います。
